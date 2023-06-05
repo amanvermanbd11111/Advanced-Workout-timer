@@ -9,7 +9,7 @@ The Workout Timer Mobile Application is a Flutter-based mobile app designed to e
 
 # Wait for Screen-shots to load. 
 
-![App screen1 light mode](./assets/images/1.png)
+![App screen1 light mode](https://github.com/amanvermanbd11111/Advanced-Workout-timer/blob/98220391b0ad1a1c4453a96003fda7204dcbd4b5/assets/images/1.png)
 ![App screen1 dark mode](./assets/images/2.png)
 ![Count down timer](./assets/images/3.png)
 ![Saver screen](./assets/images/4.png)
