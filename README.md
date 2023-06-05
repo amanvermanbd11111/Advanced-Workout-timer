@@ -7,14 +7,14 @@
 
 The Workout Timer Mobile Application is a Flutter-based mobile app designed to enhance the workout experience. It provides a comprehensive set of features including a workout timer with voice assist, highly customizable HIIT (High-Intensity Interval Training) timer, workout preset saving, and performance statistics tracking.
 
-![App screen1 light mode](/assets/images/1.png)
-![App screen1 dark mode](/assets/images/2.png)
-![Count down timer](/assets/images/3.png)
-![Saver screen](/assets/images/4.png)
-![Progress Screen](/assets/images/5.png)
-![Advanced mode](/assets/images/6.png)
-![Voice Change Screen](/assets/images/7.png)
-![Multiple screen change ](/assets/images/8.png)
+![App screen1 light mode](./assets/images/1.png)
+![App screen1 dark mode](./assets/images/2.png)
+![Count down timer](./assets/images/3.png)
+![Saver screen](./assets/images/4.png)
+![Progress Screen](./assets/images/5.png)
+![Advanced mode](./assets/images/6.png)
+![Voice Change Screen](./assets/images/7.png)
+![Multiple screen change ](./assets/images/8.png)
 
 
 ## Installation
